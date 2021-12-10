@@ -77,13 +77,13 @@
 
 ### 分组方式公示：
 
-![rand16](./doc/pics/ran16.png)
+![rand16](../doc/pics/ran16.png)
 
 ## 比赛结果
 
 ### 16 进 8 进 4
 结果如下：
-![3rd16](./doc/pics/3rd16.png)
+![3rd16](../doc/pics/3rd16.png)
 
 ### 决赛
 |名次|选手|
@@ -93,4 +93,4 @@
 |季军|布丁|
 |殿军|酷润|
 
-![3rdfinal](./doc/pics/3rdfinal.png)
+![3rdfinal](../doc/pics/3rdfinal.png)

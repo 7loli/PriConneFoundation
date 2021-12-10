@@ -3,11 +3,9 @@
 
 [**普利可奈资助者**](wiki/contributions.md)
 
-[普利可奈宗旨](wiki/purpose.md)
+[~~普利可奈宗旨~~](wiki/purpose.md)
 
 [我们的目标是星辰大海！](wiki/star_sky.md)
-
-[~~普利可奈编年史（并没有写）~~](wiki/history.md)
 
 
 # 近期活动
@@ -98,4 +96,4 @@
 
 
 # 普利可奈雀魂杯
-[更多信息点击前往]((archive/MajSoulGame/README.md))
+[更多信息点击前往](archive/MajSoulGame/README.md)

@@ -1,0 +1,8 @@
+.idea
+*.bak
+./**/tmp
+tmp
+tmp.md
+./**/test
+test*
+PriConneFoundation/.git

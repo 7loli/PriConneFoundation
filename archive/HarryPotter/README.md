@@ -1,5 +1,16 @@
 # 普利可奈魔法部
+
+- 部长：咸蛋蛋
+- 副部长：布丁、录
+
+## 持续招新中
+
+>球球大家快来吧
+
+<img src="docs/reducto.png" width ="300" alt="reducto"/>
+
 ## 魔法部圣诞活动
+
 >周五（平安夜）、周六（圣诞）当日日贡第一有小礼物，周日是本月最后一个周贡结算日，大家冲鸭！
 
 <img src="docs/xiuxiu.png" width ="300" alt="reducto"/>

@@ -20,7 +20,7 @@
 
 [**报名链接**](https://docs.qq.com/form/page/DU014RExYa3VkdHhs#/fill) 
 
-已开启全天自动匹配
+赛事 id: 322906，已开启全天自动匹配
 
 [点击查看：详细规则、奖励、参赛名单等](archive/MajSoulGame/4th.md)
 

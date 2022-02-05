@@ -1,8 +1,6 @@
 # one click
-2010。4.17，‘’one of the seven administrators create the
-foundation
+终究
 
-from now for ever
+还是
 
-
-it's only a beginning ~
+**鸽了**

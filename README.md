@@ -9,16 +9,13 @@
 
 # 近期活动
 
-## 1 麻雀部
-=======
+## 1 魂天神社分部
 
 ###  第四届普利可奈雀魂杯举办中
 
 > **状态：初赛阶段**
 
-报名条件：**正月初五前** 加入普莉可奈碎觉ฅ(˘ω˘ )ฅ群（423685729）或普莉可奈划水群（1030576153）的群员
-
-[**报名链接**](https://docs.qq.com/form/page/DU014RExYa3VkdHhs#/fill) 
+![7dai](archive/MajSoulGame/docs/7dai.png)
 
 赛事 id: 322906，已开启全天自动匹配
 
@@ -28,7 +25,7 @@
 
 [**往期活动**](archive/MajSoulGame/README.md)
 
-## 2 PCR 部
+## 2 兰德索尔分部
 
 ### 一月会战结束
 
@@ -42,7 +39,7 @@
 
 
 > [**往期活动**](archive/PCR/README.md)
-## 3 魔法部
+## 3 霍兹沃格分部
 
 ### 持续招新中
 
@@ -52,9 +49,7 @@
 
 > [**往期活动**](archive/HarryPotter/README.md)
 
-## 4. 云顶部
+## 4. 云顶之寄分部
 
 ### 暂无近期活动
 > [**往期活动**](archive/TeamFightTactics/README.md)
-
-

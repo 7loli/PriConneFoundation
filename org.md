@@ -13,5 +13,5 @@ PiYanTongHON
 
 ### 联系
 网站：www.priconne.fund
-Follow @普莉可奈 on Bilibili
+Follow @普莉可奈 on bilibili
 邮箱: coffee4nanaloli@outlook.com

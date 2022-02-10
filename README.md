@@ -10,6 +10,7 @@
 # 近期活动
 
 ## 1 麻雀部
+=======
 
 ###  第四届普利可奈雀魂杯举办中
 
@@ -17,7 +18,7 @@
 
 报名条件：**正月初五前** 加入普莉可奈碎觉ฅ(˘ω˘ )ฅ群（423685729）或普莉可奈划水群（1030576153）的群员
 
-[**报名链接**](https://docs.qq.com/form/page/DU014RExYa3VkdHhs#/fill)
+[**报名链接**](https://docs.qq.com/form/page/DU014RExYa3VkdHhs#/fill) 
 
 赛事 id: 322906，已开启全天自动匹配
 
@@ -55,3 +56,5 @@
 
 ### 暂无近期活动
 > [**往期活动**](archive/TeamFightTactics/README.md)
+
+

@@ -9,6 +9,7 @@
 <img src="docs/reducto.png" width ="300" alt="reducto"/>
 
 ## 魔法部圣诞活动
+
 >周五（平安夜）、周六（圣诞）当日日贡第一有小礼物，周日是本月最后一个周贡结算日，大家冲鸭！
 
 <img src="docs/xiuxiu.png" width ="300" alt="reducto"/>

@@ -14,7 +14,6 @@
 
 ![protect](docs/protect.png)
 
-
 ## 庆祝 PCR 动漫第二季放送，公会开招萌新
 
 <img src="docs/peko.png" width ="300" alt="PCR"/>

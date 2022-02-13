@@ -71,8 +71,6 @@
 别看了是空的
 
 #### [1st](1st.md)
->>>>>>> f7a3d1c (2022/02/11-23:41)
-
 
 [1]: https://game.maj-soul.com/1/?paipu=200905-47075ae6-5faa-4d41-9cee-261464b62579_a85449483
 [2]: https://game.maj-soul.com/1/?paipu=200905-44b7d7c0-3cc9-4ef8-a98c-ba547d9f997b_a85449483

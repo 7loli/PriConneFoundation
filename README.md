@@ -27,23 +27,26 @@
 > [**往期活动**](archive/TeamFightTactics/README.md)
 
 ##  魂天神社分部
-###  第四届普利可奈雀魂杯举办中
+###  第四届普利可奈雀魂杯圆满结束
 
-> **状态：初赛阶段**
+比赛结果如下，具体可见 [雀魂杯S4]((archive/MajSoulGame/4th.md)
 
-![7dai](archive/MajSoulGame/docs/7dai.png)
+![4th_finnished](archive/MajSoulGame/docs/4/4th_finished.png)
 
-赛事 id: 798351，已开启全天自动匹配
+最终 **四强** 如下：
 
-[点击查看：详细规则、奖励、参赛名单等](archive/MajSoulGame/4th.md)
-
-赛事更新仍然以 [普莉可奈基金会](https://gitee.com/PriConneFoundation/PriConneFoundation) 主页为准，参赛者务必关注更新
+| 排名 | 游戏昵称     | QQ昵称 |
+| ---- | ------------ | ------ |
+| 冠军 | かわいいねこ | 栗子   |
+| 亚军 | 试制神威苍岚 | 神威   |
+| 季军 | 茄子布丁     | 布丁   |
+| 殿军 | 咸蛋不是鸭蛋 | 咸蛋   |
 
 [**往期活动**](archive/MajSoulGame/README.md)
 
 
 ##  兰德索尔分部
-### 一月会战结束
+### 二月会战结束
 
 >麻酱！！！！！！
 
@@ -55,6 +58,8 @@
 
 
 > [**往期活动**](archive/PCR/README.md)
+
+
 ## 霍兹沃格分部
 ### 持续招新中
 

@@ -29,7 +29,7 @@
 ##  魂天神社分部
 ###  第四届普利可奈雀魂杯圆满结束
 
-比赛结果如下，具体可见 [雀魂杯S4]((archive/MajSoulGame/4th.md)
+比赛结果如下，具体可见 [雀魂杯S4](archive/MajSoulGame/4th.md)
 
 ![4th_finnished](archive/MajSoulGame/docs/4/4th_finished.png)
 

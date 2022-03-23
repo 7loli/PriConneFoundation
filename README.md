@@ -11,18 +11,24 @@
 
 ##  云顶之寄分部
 
-### 第一届普莉可奈云顶之寄杯筹办中
-测试阶段，暂不接受报名
+### 第一届普莉可奈云顶之寄杯已结束
+比赛结果如下：
+第一局：
 
-平台：移动端 《金铲铲之战》 S4
+![S1](archive/TeamFightTactics/docs/S1_1.png)
 
-人数：16
+第二局
+![S2](archive/TeamFightTactics/docs/S1_2.png)
 
-赛制：拟定中
+详情可见 [云顶之寄S1](archive/TeamFightTactics/S1.md))
 
-奖励：~~小小金克丝~~ 小小六选一
+最终结果及奖励如下：
 
-![ydzj](archive/TeamFightTactics/docs/ydzj.png)
+|名次|昵称|奖励|
+|---|---|---|
+|冠军|智者男刀锋之王|金克丝的卧室|
+|亚军|四季夏目|胖胖龙的月卡|
+|季军|杼书|胖胖龙的周卡|
 
 > [**往期活动**](archive/TeamFightTactics/README.md)
 

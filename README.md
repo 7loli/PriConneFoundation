@@ -11,24 +11,11 @@
 
 ##  云顶之寄分部
 
-### 第一届普莉可奈云顶之寄杯已结束
-比赛结果如下：
-第一局：
+### 第二届普莉可奈云顶之寄杯（报名中）
 
-![S1](archive/TeamFightTactics/docs/S1_1.png)
+详情可见 [云顶之寄S2](archive/TeamFightTactics/S2.md)
 
-第二局
-![S2](archive/TeamFightTactics/docs/S1_2.png)
-
-详情可见 [云顶之寄S1](archive/TeamFightTactics/S1.md))
-
-最终结果及奖励如下：
-
-|名次|昵称|奖励|
-|---|---|---|
-|冠军|智者男刀锋之王|金克丝的卧室|
-|亚军|四季夏目|胖胖龙的月卡|
-|季军|杼书|胖胖龙的周卡|
+![LOL_priconne](archive/TeamFightTactics/docs/LOL_priconne.png)
 
 > [**往期活动**](archive/TeamFightTactics/README.md)
 
@@ -52,7 +39,7 @@
 
 
 ##  兰德索尔分部
-### 二月会战结束
+### 四月会战结束
 
 >麻酱！！！！！！
 

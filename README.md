@@ -14,6 +14,10 @@
 
 > **状态：报名中**
 >
+> 平台：雀魂
+>
+> 赛事 ID ：**585297** 已开启三人东全天自动匹配
+>
 > 详情见 [雀魂杯S5](archive/MajSoulGame/5th.md)
 
 ![sese](archive/MajSoulGame/docs/pics/5th_sese.png)

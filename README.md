@@ -6,6 +6,28 @@
 - [我们的目标是星辰大海！](wiki/star_sky.md)
 
 
+#  魂天神社分部
+
+###  第六届普莉可奈雀魂杯
+
+> **状态：进行中**
+>
+> 平台：雀魂
+>
+> 详情见 [雀魂杯S6](archive/MajSoulGame/6th.md)
+
+
+
+![sese](archive/MajSoulGame/docs/pics/1_new_year.jpg)
+
+> [**往期活动**](archive/MajSoulGame/README.md)
+
+
+
+# 方舟分部
+![正规游戏](archive/NIKKE/docs/nikke.png)
+
+[建设中...](archive/NIKKE/README.md)
 
 # 特雷森分部
 
@@ -13,30 +35,6 @@
 
 ![GreenDevil](archive/PrettyDerby/docs/GreenDevil.jpg)
 
-
-
-#  魂天神社分部
-
-###  第五届普莉可奈雀魂杯
-
-> **状态：已结束**
->
-> 平台：雀魂
->
-> 详情见 [雀魂杯S5](archive/MajSoulGame/5th.md)
-
-四强如下：
-
-| 排名 | 游戏昵称   | QQ昵称     |
-| ---- | ---------- | ---------- |
-| 冠军 | 落叶绕风絮 | 上杉えりい |
-| 亚军 | 艾米鱼雷   | 小艾米     |
-| 季军 | 清米三思   | 清米三思   |
-| 殿军 | 超级小缬愺 | 猫猫缬草   |
-
-![sese](archive/MajSoulGame/docs/pics/5th_sese.png)
-
-> [**往期活动**](archive/MajSoulGame/README.md)
 
 
 
